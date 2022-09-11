@@ -131,6 +131,9 @@
 	.last-wrap .flex-contact,.stats-item{
 		grid-template-columns: 1fr
 	}
+        .mystats {
+         padding:80px 0 0 0
+         }
 	.p-wrap {
 	  padding:0;
 	}
